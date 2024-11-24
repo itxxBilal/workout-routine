@@ -1,0 +1,11 @@
+.userCard {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    transition: transform 0.2s ease;
+  }
+  
+  .userCard:hover {
+    transform: scale(1.02);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+  }
+  
